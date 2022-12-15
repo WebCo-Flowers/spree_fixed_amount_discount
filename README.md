@@ -4,7 +4,7 @@
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_fixed_amount_discount', github: 'matthewkennedy/spree_fixed_amount_discount'
+  gem 'spree_fixed_amount_discount', github: 'webco-flowers/spree_fixed_amount_discount'
   ```
 
 2. Install the gem using Bundler:
